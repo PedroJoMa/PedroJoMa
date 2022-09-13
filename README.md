@@ -12,7 +12,7 @@
     <h4> Meu nome é Pedro, tenho 21 anos. Sou estudante da área de tecnologia, apaixonado por computadores e programação!</h4>
   </p>
 
-- 🌱 Atualmente estou aprendendo Redux <a href="https://redux.js.org/"></a><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="25px">
+- 🌱 Atualmente estou aprendendo Docker <img src="imagens/docker-icon.svg" alt="docker" style="vertical-align:top; width: 35px">
 
 - 📚 Gosto muito de mangás, 🌠 animes , 🎞 séries .
 
