@@ -18,7 +18,7 @@
 ## Sobre Mim:
 
   <p align="center">
-    <h4> Meu nome é Pedro, tenho 22 anos. Sou estudante da área de tecnologia, apaixonado por computadores e programação!</h4>
+    <h4> Meu nome é Pedro, tenho 23 anos. Sou estudante da área de tecnologia, apaixonado por computadores e programação!</h4>
   </p>
 
 - 📚 Gosto muito de mangás, 🌠 animes , 🎞 séries .
